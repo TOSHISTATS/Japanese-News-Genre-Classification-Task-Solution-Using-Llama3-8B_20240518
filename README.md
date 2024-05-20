@@ -1,9 +1,12 @@
 # Llama3-8Bによるlivedoor-newsデータを用いたニュースの9クラス判別問題 / Japanese-News-Genre-Classification-Task-Solution-Using-Llama3-8B_20240520
 
 livedoor-newsデータを用いた9クラスのニュース判別問題を finetuneしたLlama3-8Bで90%超の精度を達成
+
 Achieve more than 90% accuracy with finetuned Llama3-8B for 9 class-news-classification problem using livedoor-news data
 
-trainingデータ・testデータともに1000サンプルでファイン・チューニングj / finetuned with data of livedoor news corpus for 9 classes (training 1000 samples, test 1000 samples)
+trainingデータ・testデータともに1000サンプルでファイン・チューニングj 
+
+finetuned with data of livedoor news corpus for 9 classes (training 1000 samples, test 1000 samples)
 
 
 
