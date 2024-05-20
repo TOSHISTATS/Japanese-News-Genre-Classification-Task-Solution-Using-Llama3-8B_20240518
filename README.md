@@ -4,11 +4,13 @@
 
 
 
+![Screenshot 2024-05-20 12 57 52](https://github.com/TOSHISTATS/Japanese-News-Genre-Classification-Task-Solution-Using-Llama3-8B_20240520/assets/28681557/137773a3-4960-4e7a-a4cb-0f9837dfde16)
 
 
 
 
 
+![Screenshot 2024-05-20 12 58 03](https://github.com/TOSHISTATS/Japanese-News-Genre-Classification-Task-Solution-Using-Llama3-8B_20240520/assets/28681557/d66808d9-8f89-4588-b0dc-8243b987f6cf)
 
 
 
