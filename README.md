@@ -4,7 +4,7 @@ livedoor-newsデータを用いた9クラスのニュース判別問題を finet
 
 Achieve more than 90% accuracy with finetuned Llama3-8B for 9 class-news-classification problem using livedoor-news data
 
-trainingデータ・testデータともに1000サンプルでファイン・チューニングj 
+trainingデータ・testデータともに1000サンプルでファイン・チューニング
 
 finetuned with data of livedoor news corpus for 9 classes (training 1000 samples, test 1000 samples)
 
