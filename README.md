@@ -1,5 +1,9 @@
 # Llama3-8Bによるlivedoor-newsデータを用いたニュース・タイトルの9クラス判別問題 / Japanese-News-Genre-Classification-Task-Solution-Using-Llama3-8B_20240520
 
+livedoor-newsデータを用いた9クラスのニュース・タイトル判別問題を finetuneしたLlama3-8Bで90%超の精度を達成
+Achieve more than 90% accuracy with finetuned Llama3-8B for 9 class-newstitle-classification problem using livedoor-news data
+
+finetuned with data of livedoor news corpus for 9 classes (training 1000 samples, test 1000 samples)
 
 
 
@@ -11,13 +15,6 @@
 
 
 ![Screenshot 2024-05-20 12 58 03](https://github.com/TOSHISTATS/Japanese-News-Genre-Classification-Task-Solution-Using-Llama3-8B_20240520/assets/28681557/d66808d9-8f89-4588-b0dc-8243b987f6cf)
-
-
-livedoor-newsデータを用いた9クラスのニュース・タイトル判別問題を Llama3-8Bでそれぞれ90%超の精度を達成
-Achieve more than 90% accuracy with Llama3-8B  for 9 class-newstitle-classification problem using livedoor-news data
-BERT, or Bidirectional Encoder Representations from Transformers by Google, is a new method of pre-training language representations which obtains state-of-the-art results on a wide array of Natural Language Processing (NLP) tasks.
-
-finetuned with data of livedoor news corpus for 5 classes (training 3503 samples, test 826 samples)
 
 
 
