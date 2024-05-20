@@ -9,7 +9,7 @@ trainingデータ・testデータともに1000サンプルでファイン・チ�
 finetuned with data of livedoor news corpus for 9 classes (training 1000 samples, test 1000 samples)
 
 
-
+予測と正解の分布 / distributions of prediction and label
 
 ![Screenshot 2024-05-20 12 57 52](https://github.com/TOSHISTATS/Japanese-News-Genre-Classification-Task-Solution-Using-Llama3-8B_20240520/assets/28681557/137773a3-4960-4e7a-a4cb-0f9837dfde16)
 
